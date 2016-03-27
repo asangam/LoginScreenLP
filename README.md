@@ -1,5 +1,10 @@
 # LoginScreenLP
 Sample Login Screen for C# application inspired from Android Lollipop
-<h1 >
-Screenshot
-</h1>
+<html>
+<body>
+
+<h2>Screenshot</h2>
+<img src="http://fs1.d-h.st/view/hbgU/00221/logged.PNG" alt="Mountain View">
+
+</body>
+</html>
